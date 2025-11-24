@@ -1,0 +1,10 @@
+{
+    "intersystems.language-server.formatting.commands.case": "word",
+    "intersystems.language-server.formatting.commands.length": "long",
+    "intersystems.language-server.formatting.expandClassNames": false,
+    "intersystems.language-server.formatting.system.case": "word",
+    "intersystems.language-server.formatting.system.length": "long",
+    "[objectscript-class]": {
+        "editor.formatOnSave": true
+    },
+}
